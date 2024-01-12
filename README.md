@@ -25,8 +25,8 @@ Download and deploy Windows VM:  <br/>
 <img src="https://i.imgur.com/2yu5gKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download and install Ubuntu Server: <br/>
+<img src="https://i.imgur.com/Yg6IXV3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
