@@ -31,8 +31,8 @@ Download and install Ubuntu Server: <br/>
 <img src="https://i.imgur.com/Yg6IXV3.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+Prevent Windows VM from going into standby:  <br/>
+<img src="https://i.imgur.com/yJLNQqT.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
