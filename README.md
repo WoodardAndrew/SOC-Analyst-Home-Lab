@@ -40,7 +40,7 @@ Installing Sysmon on Windows VM:  <br/>
 <br />
 <br />
 Installing LimaCharlie EDR on Windows VM:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
