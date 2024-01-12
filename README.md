@@ -43,7 +43,7 @@ Disabling Defender on Windows VM:  <br/>
 <br />
 <br />
 Prevent Windows VM from going into standby:  <br/>
-<img src="https://i.imgur.com/yJLNQqT.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/EVkSRsm.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Installing Sysmon on Windows VM:  <br/>
