@@ -31,6 +31,11 @@ Ubuntu Server: <br/>
 <img src="https://i.imgur.com/6dqUCwA.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
+Setting Static IP: <br/>
+<img src="https://i.imgur.com/Akqcr1X.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/1l3WR6T.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
 Prevent Windows VM from going into standby:  <br/>
 <img src="https://i.imgur.com/yJLNQqT.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
