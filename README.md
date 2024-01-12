@@ -25,6 +25,7 @@ VMware Workstation: <br/>
 <br />
 Windows VM:  <br/>
 <img src="https://i.imgur.com/2yu5gKs.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/BRYtZaj.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Ubuntu Server: <br/>
