@@ -43,8 +43,8 @@ Installing LimaCharlie EDR on Windows VM:  <br/>
 <img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+Setting Up Attack System:  <br/>
+<img src="https://i.imgur.com/YBT4X6S.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
