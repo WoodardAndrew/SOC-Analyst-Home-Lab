@@ -18,31 +18,31 @@ This project involves setting up a small virtualization environment, putting on 
 
 <p align="center">
 Download and install VMware Workstation: <br/>
-<img src="https://i.imgur.com/hEWffjt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hEWffjt.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Download and deploy Windows VM:  <br/>
-<img src="https://i.imgur.com/2yu5gKs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2yu5gKs.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Download and install Ubuntu Server: <br/>
-<img src="https://i.imgur.com/Yg6IXV3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Yg6IXV3.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
