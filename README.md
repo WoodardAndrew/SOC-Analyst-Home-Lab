@@ -16,30 +16,30 @@ I am using the free version of VMware Workstation, I set up Windows VM as is wil
 - <b> LimaCharlie EDR </b>
 - <b> YARA </b>
 
-<h2>Program walk-through:</h2>
+<h2>SOC Analyst Home Lab:</h2>
 
 <p align="center">
-Download and install VMware Workstation: <br/>
+VMware Workstation: <br/>
 <img src="https://i.imgur.com/hEWffjt.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Download and deploy Windows VM:  <br/>
+Windows VM:  <br/>
 <img src="https://i.imgur.com/2yu5gKs.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Download and install Ubuntu Server: <br/>
-<img src="https://i.imgur.com/Yg6IXV3.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+Ubuntu Server: <br/>
+<img src="https://i.imgur.com/6dqUCwA.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Prevent Windows VM from going into standby:  <br/>
 <img src="https://i.imgur.com/yJLNQqT.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+Installing Sysmon on Windows VM:  <br/>
+<img src="https://i.imgur.com/r2P1mJY.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Installing LimaCharlie EDR on Windows VM:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
