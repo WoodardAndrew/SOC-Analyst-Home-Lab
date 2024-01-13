@@ -75,6 +75,11 @@ Configuring LimaCharlie to ship Sysmon Event Logs alongside its own EDR telemetr
 Setting Up Attack System:  <br/>
 <img src="https://i.imgur.com/qsROW2x.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/DkKeLkk.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Generating C2 Payload:  <br/>
+<img src="https://i.imgur.com/KALgere.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/aZWDqJz.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
