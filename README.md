@@ -68,6 +68,8 @@ Installing LimaCharlie EDR on Windows VM:  <br/>
 <img src="https://i.imgur.com/8xRDmX3.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
+Configuring LimaCharlie to ship Sysmon Event Logs alongside its own EDR telemetry:  <br/>
+<img src="https://i.imgur.com/YBT4X6S.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 Setting Up Attack System:  <br/>
 <img src="https://i.imgur.com/YBT4X6S.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
