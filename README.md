@@ -80,6 +80,14 @@ Setting Up Attack System:  <br/>
 Generating C2 Payload:  <br/>
 <img src="https://i.imgur.com/KALgere.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/aZWDqJz.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br /> 
+Starting Command and Control Session:  <br/>
+<img src="https://i.imgur.com/chdutYr.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/hVK3384.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/2IkE4P6.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/s2iM5do.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/NIh4KSL.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
