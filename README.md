@@ -61,11 +61,11 @@ Installing LimaCharlie EDR on Windows VM:  <br/>
 <img src="https://i.imgur.com/CoJ0EZq.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/FpZvfYB.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/8hlUzTg.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/SVuoM2L.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/tto9ayD.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/TezGiAn.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/fBuXbMG.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/90MyyLk.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/8xRDmX3.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Setting Up Attack System:  <br/>
