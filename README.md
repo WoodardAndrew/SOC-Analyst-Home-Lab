@@ -42,9 +42,11 @@ Setting Static IP: <br/>
 <br />
 <br />
 Disabling Defender on Windows VM:  <br/>
-<img src="https://i.imgur.com/4DSMuYs.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/MxKxrZ5.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/V65L1pn.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/9NxKVaJ.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/w9J2sif.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/NcK0x3Z.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/6Ud7mhO.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/6Ud7mhO.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Prevent Windows VM from going into standby:  <br/>
