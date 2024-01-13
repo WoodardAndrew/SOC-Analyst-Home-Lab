@@ -88,6 +88,16 @@ Starting Command and Control Session:  <br/>
 <img src="https://i.imgur.com/2IkE4P6.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/s2iM5do.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/NIh4KSL.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Observing EDR Telemetry:  <br/>
+<img src="https://i.imgur.com/qaWnUfQ.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/Br7rOUw.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/LVK9WBK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/xSz2mkl.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/nOB5LsB.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/cFCtmHj.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/iuaFKZu.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
