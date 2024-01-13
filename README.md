@@ -36,7 +36,7 @@ Ubuntu Server: <br/>
 <br />
 Setting Static IP: <br/>
 <img src="https://i.imgur.com/oR0RSmB.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
-<img src="https://i.imgur.com/g7LAtJE.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/gMM5EnX.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/nQPiZG6.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/UzZGiTq.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
