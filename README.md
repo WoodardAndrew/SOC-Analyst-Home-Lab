@@ -30,6 +30,7 @@ Windows VM:  <br/>
 <br />
 Ubuntu Server: <br/>
 <img src="https://i.imgur.com/6dqUCwA.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/Sd40w7K.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Setting Static IP: <br/>
