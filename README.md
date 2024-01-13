@@ -54,7 +54,7 @@ Prevent Windows VM from going into standby:  <br/>
 <br />
 <br />
 Installing Sysmon on Windows VM:  <br/>
-<img src="https://i.imgur.com/2ExYGNv.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/4pyGKt1.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
 Installing LimaCharlie EDR on Windows VM:  <br/>
