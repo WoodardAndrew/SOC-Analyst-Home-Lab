@@ -4,7 +4,7 @@
 This project involves setting up a small virtualization environment, putting on our adversary hat, generating and observing some noise. Emulating an adversary for crafting detections, blocking an attack, tuning false positives, and triggering YARA scans with detection rules.
 <br />
 <h2>For context</h2> 
-I am using the free version of VMware Workstation, I set up Windows VM as is will all defaults, then i completely disabled windows defender on the windows VM. The Ubuntu Server i also set up as is with all defaults, but then configured the Ubuntu Server to have a static IP so no worrying about it changing in time.
+I am using the free version of VMware Workstation, I set up Windows VM as is with all defaults, then i completely disabled windows defender on the windows VM. The Ubuntu Server i also set up as is with all defaults, but then configured the Ubuntu Server to have a static IP so no worrying about it changing in time.
 <br />
 
 <h2>Environments, Languages and Utilities Used</h2>
