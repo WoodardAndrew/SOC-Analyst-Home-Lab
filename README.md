@@ -98,6 +98,25 @@ Observing EDR Telemetry:  <br/>
 <img src="https://i.imgur.com/nOB5LsB.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/cFCtmHj.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/iuaFKZu.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Getting Adversarial:  <br/>
+<img src="https://i.imgur.com/6CRVYXw.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Detecting The Credential Dump:  <br/>
+<img src="https://i.imgur.com/06JxGjb.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Crafting Detection and Response Rule:  <br/>
+<img src="https://i.imgur.com/QYKzytr.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/V2W6stZ.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/caj26is.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Testing Detection and Response Rule:  <br/>
+<img src="https://i.imgur.com/NvWF5XK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/ZhlZzqV.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
