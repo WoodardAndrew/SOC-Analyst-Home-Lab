@@ -153,9 +153,14 @@ Automating YARA to scan processes launched from Downloads directory:  <br/>
 <img src="https://i.imgur.com/c2lW8Mp.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <br />
 <br />
-Automating YARA to scan processes launched from Downloads directory:  <br/>
+Triggering out new rules:  <br/>
 <img src="https://i.imgur.com/kZSyE57.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/X8mlu0b.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Scanning processes launched from downloads:  <br/>
+<img src="https://i.imgur.com/ETMeEvq.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/BnMr0qL.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
