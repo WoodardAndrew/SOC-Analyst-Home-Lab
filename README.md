@@ -141,6 +141,11 @@ Automating YARA Scanning:  <br/>
 Testing YARA Signature:  <br/>
 <img src="https://i.imgur.com/jSMjooR.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/Xycdnyp.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Automating YARA to scan downloaded EXEs:  <br/>
+<img src="https://i.imgur.com/dWDDn9Y.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/ZYH2r6J.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
