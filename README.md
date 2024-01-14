@@ -117,6 +117,15 @@ Crafting Detection and Response Rule:  <br/>
 Testing Detection and Response Rule:  <br/>
 <img src="https://i.imgur.com/NvWF5XK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/ZhlZzqV.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Blocking Attacks:  <br/>
+<img src="https://i.imgur.com/nbjBe2l.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/pom4Jz4.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/7guTH2F.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/DHwSuen.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/17GwHdK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/8Jc3cxR.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
