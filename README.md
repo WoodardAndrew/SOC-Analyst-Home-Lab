@@ -136,6 +136,11 @@ Automating YARA Scanning:  <br/>
 <img src="https://i.imgur.com/4Obox8V.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/DA21za5.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/2N2rCPK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Testing YARA Signature:  <br/>
+<img src="https://i.imgur.com/jSMjooR.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/Xycdnyp.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
