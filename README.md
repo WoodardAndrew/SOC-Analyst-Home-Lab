@@ -151,6 +151,11 @@ Automating YARA to scan downloaded EXEs:  <br/>
 Automating YARA to scan processes launched from Downloads directory:  <br/>
 <img src="https://i.imgur.com/MbBKA24.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/c2lW8Mp.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Automating YARA to scan processes launched from Downloads directory:  <br/>
+<img src="https://i.imgur.com/kZSyE57.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/X8mlu0b.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
