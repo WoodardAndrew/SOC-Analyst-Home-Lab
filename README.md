@@ -126,6 +126,16 @@ Blocking Attacks:  <br/>
 <img src="https://i.imgur.com/DHwSuen.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/17GwHdK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 <img src="https://i.imgur.com/8Jc3cxR.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<br />
+<br />
+Automating YARA Scanning:  <br/>
+<img src="https://i.imgur.com/j9vBfwk.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/YlUoOEG.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/EOXqWKV.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/Q7zYEnr.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/4Obox8V.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/DA21za5.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
+<img src="https://i.imgur.com/2N2rCPK.png" height="80%" width="80%" alt="SOC Analyst Home Lab"/>
 </p>
 
 <!--
