@@ -1,7 +1,7 @@
 <h1> SOC Analyst Home Lab </h1>
 
 <h2>Description</h2>
-This project involves setting up a small virtualization environment, putting on our adversary hat, generating and observing some noise. Emulating an adversary for crafting detections, blocking an attack, tuning false positives, and triggering YARA scans with detection rules.
+This project entails configuring a compact virtualization environment, adopting an adversarial perspective, generating and monitoring activity. Simulating adversary behavior to develop detection strategies, thwarting potential attacks, refining accuracy, and activating YARA scans based on detection rules.
 <br />
 <h2>For Context</h2> 
 I am using the free version of VMware Workstation. I set up the Windows VM with all default settings and then completely disabled Windows Defender on the VM. For the Ubuntu Server, I also used default settings but configured it to have a static IP to prevent changes over time. Additionally, I have downloaded and installed Sysmon and LimaCharlie EDR on the Windows VM. On the Ubuntu Server, I downloaded and installed the Sliver C2 framework along with mingw-w64 for additional capabilities.
